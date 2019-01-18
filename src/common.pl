@@ -1,12 +1,12 @@
 % created by Guilherme Torres on 13/12/2018
 
-% vocals
-vocal("a").
-vocal("e").
-vocal("i").
-vocal("o").
-vocal("u").
-vocal("y").
+% vowels
+vowel("a").
+vowel("e").
+vowel("i").
+vowel("o").
+vowel("u").
+vowel("y").
 
 % consonants
 consonant("b").
@@ -29,3 +29,6 @@ consonant("v").
 consonant("w").
 consonant("x").
 consonant("z").
+
+% semivowels
+
